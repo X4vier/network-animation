@@ -1,7 +1,7 @@
 const FRAMES_PER_SECOND = 60;
 const MILLISECONDS_PER_SECOND = 1000;
 
-const NUM_POINTS = 30;
+const NUM_POINTS = 40;
 const MAX_POINT_SPEED = 0.5;
 
 const LINE_COLOR = "#ffffff";
@@ -15,7 +15,7 @@ const LINE_WIDTH_MULTIPLIER = 500;
 const LINE_WIDTH_EXPONENT = 1.6;
 
 const MAX_LINE_WIDTH = 3;
-const MIN_LINE_WIDTH = 0.15;
+const MIN_LINE_WIDTH = 0.1;
 
 export {
   FRAMES_PER_SECOND,
